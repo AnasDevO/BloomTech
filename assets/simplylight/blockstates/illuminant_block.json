@@ -1,0 +1,22 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model":"simplylight:lampblock"
+	},
+	"variants": {
+		"normal": {
+			"model":"simplylight:lampblock"
+		},
+		"inventory": {
+			"model":"simplylight:lampblock"
+		},
+        "on": {
+            "false": {
+				"model":"simplylight:lampblock"
+            },
+            "true": {
+				"model":"simplylight:lampblock_on"
+            }
+        }
+    }
+}

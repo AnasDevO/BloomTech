@@ -1,0 +1,7 @@
+{
+  "parent": "block/tinted_cross_glow",
+  "textures": {
+    "cross": "netherex:blocks/red_elder_mushroom",
+    "cross_glow": "netherex:blocks/red_elder_mushroom_glow"
+  }
+}

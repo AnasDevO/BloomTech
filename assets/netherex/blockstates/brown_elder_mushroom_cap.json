@@ -1,0 +1,14 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "model": "layered_cube_all_2",
+        "textures": {
+            "top_all": "netherex:blocks/brown_elder_mushroom_cap_glow",
+            "bot_all": "netherex:blocks/brown_elder_mushroom_cap"
+        },
+        "transform": "forge:default-block"
+    },
+    "variants": {
+        "normal": [ { } ]
+    }
+}

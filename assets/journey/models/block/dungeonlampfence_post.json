@@ -1,0 +1,33 @@
+{
+    "textures": {
+        "particle": "#texture",
+        "texture": "journey:blocks/dungeonLamp",
+        "texture_glow": "journey:blocks/dungeonLamp_glow"
+    },
+    "elements": [
+        {   "from": [ 6, 0, 6 ],
+            "to": [ 10, 16, 10 ],
+            "faces": {
+                "down":  { "uv": [ 6, 6, 10, 10 ], "texture": "#texture_glow", "cullface": "down" },
+                "up":    { "uv": [ 6, 6, 10, 10 ], "texture": "#texture_glow", "cullface": "up"   },
+                "north": { "uv": [ 6, 0, 10, 16 ], "texture": "#texture_glow" },
+                "south": { "uv": [ 6, 0, 10, 16 ], "texture": "#texture_glow" },
+                "west":  { "uv": [ 6, 0, 10, 16 ], "texture": "#texture_glow" },
+                "east":  { "uv": [ 6, 0, 10, 16 ], "texture": "#texture_glow" }
+            },
+            "__comment": "Center post"
+        },
+        {   "from": [ 6, 0, 6 ],
+            "to": [ 10, 16, 10 ],
+            "faces": {
+                "down":  { "uv": [ 6, 6, 10, 10 ], "texture": "#texture", "cullface": "down" },
+                "up":    { "uv": [ 6, 6, 10, 10 ], "texture": "#texture", "cullface": "up"   },
+                "north": { "uv": [ 6, 0, 10, 16 ], "texture": "#texture" },
+                "south": { "uv": [ 6, 0, 10, 16 ], "texture": "#texture" },
+                "west":  { "uv": [ 6, 0, 10, 16 ], "texture": "#texture" },
+                "east":  { "uv": [ 6, 0, 10, 16 ], "texture": "#texture" }
+            },
+            "__comment": "Center post"
+        }
+    ]
+}

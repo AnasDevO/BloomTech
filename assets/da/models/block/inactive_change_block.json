@@ -1,0 +1,7 @@
+{
+    "parent": "block/layered_cube_all_2",
+    "textures": {
+        "top_all": "da:blocks/inactive_change_block_glow",
+        "bot_all": "da:blocks/inactive_change_block"
+    }
+}

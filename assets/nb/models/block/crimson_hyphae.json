@@ -1,0 +1,7 @@
+{
+    "parent": "block/layered_cube_all_2",
+    "textures": {
+        "top_all": "nb:blocks/crimson_hyphae_glow",
+        "bot_all": "nb:blocks/crimson_hyphae"
+    }
+}

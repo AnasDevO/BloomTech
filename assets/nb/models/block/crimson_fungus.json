@@ -1,0 +1,7 @@
+{
+  "parent": "block/tinted_cross_glow",
+  "textures": {
+    "cross": "nb:blocks/crimson_fungus",
+    "cross_glow": "nb:blocks/crimson_fungus_glow"
+  }
+}

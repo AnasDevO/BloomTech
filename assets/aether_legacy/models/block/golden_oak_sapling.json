@@ -1,0 +1,7 @@
+{
+	"parent": "block/tinted_cross_glow",
+	"textures": {
+		"cross": "aether_legacy:blocks/golden_oak_sapling",
+		"cross_glow": "aether_legacy:blocks/golden_oak_sapling_emissive"
+	}
+}

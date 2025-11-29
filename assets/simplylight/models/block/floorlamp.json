@@ -1,0 +1,37 @@
+﻿{
+	"parent": "block/block",
+	"ambientocclusion": false,
+	"textures": {
+		"bot_floorlamp": "simplylight:blocks/omni",
+		"top_floorlamp": "simplylight:blocks/omni_bloom",
+		"particle": "simplylight:blocks/omni"
+	},
+	"elements": [
+		{
+            "shade": false,
+			"from": [6, 0, 6],
+			"to": [10, 2, 10],
+			"faces": {
+				"north": {"uv": [8, 5, 12, 7], "texture": "bot_floorlamp"},
+				"east": {"uv": [12, 5, 16, 7], "texture": "bot_floorlamp"},
+				"south": {"uv": [12, 5, 16, 7], "texture": "bot_floorlamp"},
+				"west": {"uv": [8, 5, 12, 7], "texture": "bot_floorlamp"},
+				"up": {"uv": [8, 1, 12, 5], "texture": "bot_floorlamp"},
+				"down": {"uv": [0, 0, 4, 4], "texture": "bot_floorlamp"}
+			}
+		},
+		{
+            "shade": false,
+			"from": [6, 0, 6],
+			"to": [10, 2, 10],
+			"faces": {
+				"north": {"uv": [8, 5, 12, 7], "texture": "top_floorlamp"},
+				"east": {"uv": [12, 5, 16, 7], "texture": "top_floorlamp"},
+				"south": {"uv": [12, 5, 16, 7], "texture": "top_floorlamp"},
+				"west": {"uv": [8, 5, 12, 7], "texture": "top_floorlamp"},
+				"up": {"uv": [8, 1, 12, 5], "texture": "top_floorlamp"},
+				"down": {"uv": [0, 0, 4, 4], "texture": "top_floorlamp"}
+			}
+		}
+	]
+}

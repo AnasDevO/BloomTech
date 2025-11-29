@@ -1,0 +1,7 @@
+{
+    "parent": "block/torch_wall_2",
+    "textures": {
+        "bot_torch": "theaurorian:blocks/moontorch",
+        "top_torch": "theaurorian:blocks/moontorch_glow"
+    }
+}

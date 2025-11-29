@@ -1,0 +1,38 @@
+{
+	"parent": "minecraft:block/block",
+	"ambientocclusion":false,
+  "textures": {
+	"particle": "#illuminant_block_side_on",
+    "illuminant_block_side_on": "journey:blocks/igniter_side_on",
+    "illuminant_block_side_on_bloom": "journey:blocks/igniter_side_on_glow",
+    "illuminant_block_top_on": "journey:blocks/igniter_top_on",
+    "illuminant_block_top_on_bloom": "journey:blocks/igniter_top_on",
+	"bottom": "blocks/furnace_bottom"
+  },
+	"elements":[
+		{
+			"shade": true,
+			"from": [ 0,0,0], "to": [16,16,16],
+			"faces":{
+				"down": { "texture": "#bottom", "cullface": "down" },
+				"up": { "texture": "#illuminant_block_top_on", "culface":"up" },
+				"north": { "texture": "#illuminant_block_side_on", "cullface": "north" },
+				"south": { "texture": "#illuminant_block_side_on", "cullface": "south" },
+				"west": { "texture": "#illuminant_block_side_on", "cullface": "west" },
+				"east": { "texture": "#illuminant_block_side_on", "cullface": "east" }
+			}
+		},
+		{
+			"shade": false,
+			"from": [ 0,0,0], "to": [16,16,16],
+			"faces":{
+				"down": { "texture": "#bottom", "cullface": "down" },
+				"up": { "texture": "#illuminant_block_top_on_bloom", "culface":"up" },
+				"north": { "texture": "#illuminant_block_side_on_bloom", "cullface": "north" },
+				"south": { "texture": "#illuminant_block_side_on_bloom", "cullface": "south" },
+				"west": { "texture": "#illuminant_block_side_on_bloom", "cullface": "west" },
+				"east": { "texture": "#illuminant_block_side_on_bloom", "cullface": "east" }
+			}
+		}
+		]
+}

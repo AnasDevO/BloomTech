@@ -1,0 +1,9 @@
+{
+  "parent": "block/door_top_rh_glow",
+  "textures": {
+    "bottom": "nb:blocks/warped_door_bottom",
+    "top": "nb:blocks/warped_door_top",
+    "bottom_glow": "nb:blocks/warped_door_bottom_glow",
+    "top_glow": "nb:blocks/warped_door_top_glow"
+  }
+}

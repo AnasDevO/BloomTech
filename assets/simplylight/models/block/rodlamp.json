@@ -1,0 +1,43 @@
+{
+	"ambientocclusion": false,
+	"textures": {
+		"bot_rodlamp": "simplylight:blocks/omni2",
+		"top_rodlamp": "simplylight:blocks/omni2_bloom",
+		"particle": "simplylight:blocks/omni2"
+	},
+	"elements": [
+		{
+            "shade": false,
+			"from": [7, 0, 7],
+			"to": [9, 16, 9],
+			"faces": {
+				"north": {"uv": [0, 0, 2, 16], "texture": "bot_rodlamp"},
+				"east": {"uv": [0, 0, 2, 16], "texture": "bot_rodlamp"},
+				"south": {"uv": [0, 0, 2, 16], "texture": "bot_rodlamp"},
+				"west": {"uv": [0, 0, 2, 16], "texture": "bot_rodlamp"},
+				"up": {"uv": [2, 0, 4, 2], "texture": "bot_rodlamp"},
+				"down": {"uv": [2, 0, 4, 2], "texture": "bot_rodlamp"}
+			}
+		},
+		{
+            "shade": false,
+			"from": [7, 0, 7],
+			"to": [9, 16, 9],
+			"faces": {
+				"north": {"uv": [0, 0, 2, 16], "texture": "top_rodlamp"},
+				"east": {"uv": [0, 0, 2, 16], "texture": "top_rodlamp"},
+				"south": {"uv": [0, 0, 2, 16], "texture": "top_rodlamp"},
+				"west": {"uv": [0, 0, 2, 16], "texture": "top_rodlamp"},
+				"up": {"uv": [2, 0, 4, 2], "texture": "top_rodlamp"},
+				"down": {"uv": [2, 0, 4, 2], "texture": "top_rodlamp"}
+			}
+		}
+
+
+	],
+	"display": {
+		"gui": {
+			"rotation": [45, 45, 0]
+		}
+	}
+}

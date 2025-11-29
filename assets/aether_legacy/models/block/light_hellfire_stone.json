@@ -1,0 +1,8 @@
+{
+    "parent": "block/layered_cube_all_2",
+    "textures": {
+        "top_all": "aether_legacy:blocks/light_hellfire_stone_emissive",
+        "bot_all": "aether_legacy:blocks/light_hellfire_stone"
+    }
+}
+

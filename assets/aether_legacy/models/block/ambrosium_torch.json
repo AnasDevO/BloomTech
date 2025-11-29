@@ -1,0 +1,7 @@
+{
+    "parent": "block/torch_2",
+    "textures": {
+        "bot_torch": "aether_legacy:blocks/ambrosium_torch",
+        "top_torch": "aether_legacy:blocks/ambrosium_torch_emissive"
+    }
+}

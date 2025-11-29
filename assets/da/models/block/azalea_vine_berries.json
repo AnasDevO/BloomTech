@@ -1,0 +1,7 @@
+{
+  "parent": "block/tinted_cross_glow",
+  "textures": {
+    "cross": "da:blocks/azalea_vine_berries",
+    "cross_glow": "da:blocks/azalea_vine_berries_glow"
+  }
+}
