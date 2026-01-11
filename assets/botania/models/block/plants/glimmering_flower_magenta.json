@@ -1,0 +1,7 @@
+{
+  "parent": "block/tinted_cross_glow",
+  "textures": {
+    "cross": "botania:blocks/flowerglimmering2",
+    "cross_glow": "botania:blocks/flowerglimmering2_bloom"
+  }
+}

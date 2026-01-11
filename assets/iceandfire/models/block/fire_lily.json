@@ -1,0 +1,7 @@
+{
+  "parent": "block/tinted_cross_glow",
+  "textures": {
+    "cross": "iceandfire:blocks/fire_lily",
+    "cross_glow": "iceandfire:blocks/fire_lily_bloom"
+  }
+}
