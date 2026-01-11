@@ -1,0 +1,11 @@
+{
+  "parent": "block/half_slab_2",
+  "textures": {
+    "bottom": "nyx:blocks/star_bloom",
+    "top": "nyx:blocks/star_bloom",
+    "side": "nyx:blocks/star_bloom",
+    "bottom_bloom": "nyx:blocks/star",
+    "top_bloom": "nyx:blocks/star",
+    "side_bloom": "nyx:blocks/star"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "animation": {
+    "frames": [
+      {
+        "index": 0,
+        "time": 18
+      },
+      {
+        "index": 1,
+        "time": 18
+      }
+    ],
+    "interpolate": true
+  },
+  "ctm": {
+        "ctm_version": 1,
+        "layer": "BLOOM",
+        "extra": {
+          "light": 15
+        }
+    }
+}
