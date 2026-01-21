@@ -1,0 +1,7 @@
+{
+    "parent": "techguns:block/lamp_base",
+    "textures": {
+        "texture": "techguns:blocks/lamp02",
+        "texture2": "techguns:blocks/lamp02_glow"
+    }
+}

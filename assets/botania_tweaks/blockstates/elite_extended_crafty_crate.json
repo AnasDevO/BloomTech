@@ -1,0 +1,25 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "layered_cube_2",
+		"textures": {
+			"bot_down":"botania_tweaks:crate/extended/elite/bottom",
+			"bot_up":"botania_tweaks:crate/extended/elite/side",
+			"bot_east":"botania_tweaks:crate/extended/elite/side",
+			"bot_west":"botania_tweaks:crate/extended/elite/side",
+			"bot_north":"botania_tweaks:crate/extended/elite/side",
+			"bot_south":"botania_tweaks:crate/extended/elite/side",
+			"top_down":"botania_tweaks:crate/extended/elite/bottom_glow",
+			"top_up":"botania_tweaks:crate/extended/elite/side_glow",
+			"top_east":"botania_tweaks:crate/extended/elite/side_glow",
+			"top_west":"botania_tweaks:crate/extended/elite/side_glow",
+			"top_north":"botania_tweaks:crate/extended/elite/side_glow",
+			"top_south":"botania_tweaks:crate/extended/elite/side_glow",
+			"particle": "botania_tweaks:crate/extended/elite/side"
+		}
+	},
+	"variants": {
+		"normal": [{}],
+		"inventory": [{}]
+	}
+}

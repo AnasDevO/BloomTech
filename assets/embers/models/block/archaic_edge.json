@@ -1,0 +1,10 @@
+{
+    "parent": "block/cube_column_2",
+    "textures": {
+        "end": "embers:blocks/archaic_flat",
+        "end_glow": "embers:blocks/archaic_flat",
+        "side": "embers:blocks/archaic_edge",
+        "side_glow": "embers:blocks/archaic_edge_glow",
+        "particle": "embers:blocks/archaic_edge"
+    }
+}
